@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">WhatsUp</string>
+    <string name="send_file">Enviar arquivo</string>
+    <string name="welcome">Bem Vindo</string>
+    <string name="empty_images_list_message">Nenhum upload ainda.\\nClique no \'+\' para começar.</string>
+    <string name="image_icon_description">Ícone que representa uma imagem</string>
+    <string name="share_message">Compartilhar</string>
+</resources>

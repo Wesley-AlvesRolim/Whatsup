@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">WhatsUp</string>
+    <string name="file_data_perf_name" translatable="false">FILE_DATA_PREF_KEY</string>
+    <string name="send_file">Upload</string>
+    <string name="welcome">Welcome</string>
+    <string name="empty_images_list_message">No uploads yet.\\nClick the \'+\' to begin.</string>
+    <string name="image_icon_description">Icon to represent a image</string>
+    <string name="share_message">Share</string>
+</resources>
